@@ -20,8 +20,7 @@
 
 title: Blog Demonstration # Make a title for your blog
 email: esnt@byu.edu# Add your email 
-description: >- # this means to ignore newlines until "baseurl:"
-"Inside quotes = no problems"
+description: "Inside quotes = no problems"
 baseurl: "/my386blog" # keep this the same or change it to the name of the repository 
 url: "https://esnt.github.io" #  change this to "https://<your-github-username>.github.io"
 image: /assets/images/image5.jpg
